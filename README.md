@@ -10,7 +10,7 @@ Mongo Scraper is a full-stack web application that allows you to scrape for arti
 Being by running: 
 
 ```
-git clone
+git clone https://github.com/silvershan/MongoScraper.git
 ```
 
 Then run this to install all dependencies required:
