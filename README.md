@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Mongo Scraper is a full-stack web application that allows you to scrape for articles on the NY Times website to keep up to date on the latest news!  You can also save articles and add notes to the articles as well.
 
 ### Prerequisites
 
