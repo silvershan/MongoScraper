@@ -29,9 +29,21 @@ Link:
 ## Built With
 
 Handlebars.js
+
+
 Node.js
+
+
 MongoDB and Mongoose
+
+
 Express.js
-npm, including express and body-parser packages.
-cheerio for scraping the website
+
+
+Body-parser
+
+
+Cheerio 
+
+
 Axios
