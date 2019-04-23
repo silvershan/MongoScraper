@@ -24,7 +24,7 @@ npm install
 
 This app is deployed on Heroku:
 
-Link:
+Link: https://scrape-newspaper.herokuapp.com/
 
 ## Built With
 
